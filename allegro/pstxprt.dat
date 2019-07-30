@@ -1,0 +1,250 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Jul-30-2019 at 16:48:43 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='MODULATION_CHOISUWON';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_CAP196_0.01UF':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS826@FILTSUB.C.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins826@filtsub.\c.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins826@filtsub.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_CAP196_0.01UF':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS845@FILTSUB.C.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins845@filtsub.\c.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins845@filtsub.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_CAP196_0.01UF':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS2138@FILTSUB.C.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins2138@filtsub.\c.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins2138@filtsub.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'D_0_DO41_D':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS3245@MODULATION_CHOISUWON.D_0.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins3245@modulation_choisuwon.\d_0.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins3245@modulation_choisuwon.\d_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON4_JUMPER4_CON4':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS30@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins30@connector.\con4.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins30@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON2_JUMPER2_CON2':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS422@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins422@connector.\con2.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins422@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CON3_JUMPER3_CON3':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS1664@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins1664@connector.\con3.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins1664@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'Q2SA1015_TO92_Q2SA1015':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS1090@JBIPOLAR.Q2SA1015.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins1090@jbipolar.\q2sa1015.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins1090@jbipolar.\q2sa1015.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES400_30K':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS692@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins692@discrete.\r.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins692@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES400_100K':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS708@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins708@discrete.\r.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins708@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES400_6.2K':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS724@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins724@discrete.\r.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins724@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES400_560':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS1411@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins1411@discrete.\r.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins1411@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS2278@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins2278@discrete.\r.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins2278@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS2372@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins2372@discrete.\r.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins2372@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS2489@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins2489@discrete.\r.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins2489@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS2548@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins2548@discrete.\r.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins2548@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS3289@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins3289@discrete.\r.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins3289@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'NE555_0_DIP8_3_NE555':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS71@MODULATION_CHOISUWON.NE555_0.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins71@modulation_choisuwon.\ne555_0.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins71@modulation_choisuwon.\ne555_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'LF356B_2_DIP8_3_LF356B':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS122@MODULATION_CHOISUWON.LF356B_2.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins122@modulation_choisuwon.\lf356b_2.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins122@modulation_choisuwon.\lf356b_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'LF356B_2_DIP8_3_LF356B':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS257@MODULATION_CHOISUWON.LF356B_2.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins257@modulation_choisuwon.\lf356b_2.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins257@modulation_choisuwon.\lf356b_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'LF111_0_DIP8_3_LF398':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS1816@MODULATION_CHOISUWON.LF111_0.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins1816@modulation_choisuwon.\lf111_0.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins1816@modulation_choisuwon.\lf111_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'LF356B_2_DIP8_3_LF356B':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS3642@MODULATION_CHOISUWON.LF356B_2.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins3642@modulation_choisuwon.\lf356b_2.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins3642@modulation_choisuwon.\lf356b_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VR1 'POT_RESADJ_5K':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS1002@DISCRETE.POT.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins1002@discrete.\pot.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins1002@discrete.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VR2 'POT_RESADJ_20K':;
+
+SECTION_NUMBER 1
+ '@MODULATION_CHOISUWON.SCHEMATIC1(SCH_1):INS1455@DISCRETE.POT.NORMAL(CHIPS)':
+ C_PATH='@modulation_choisuwon.schematic1(sch_1):ins1455@discrete.\pot.normal\(chips)',
+ P_PATH='@modulation_choisuwon.schematic1(sch_1):page1_ins1455@discrete.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
