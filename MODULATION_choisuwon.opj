@@ -164,13 +164,13 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 513"))
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 513"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 50 1132 50 601")
-        (Scroll "-240 -5")
+        (Placement "44 0 1 -1 -1 -8 -30 50 1132 50 601")
+        (Scroll "-95 0")
         (Zoom "87")
         (Occurrence "/"))
       (Path "C:\USERS\USER\DESKTOP\WORK\MODULATION\MODULATION_CHOISUWON.DSN")
